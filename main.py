@@ -4,7 +4,6 @@ import argparse
 import datetime as dt
 from pandas.api.types import is_datetime64_any_dtype as is_datetime
 from scipy import stats
-import json
 
 
 class TableHandler():
