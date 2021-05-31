@@ -2,6 +2,7 @@
 This project provides descriptive statitics on each column of the dataframe.
 
 Input: .csv file
+
 Output: markdown, html or excel file.
 
 Descriptive statistics:
