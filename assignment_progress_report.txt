@@ -1,0 +1,7 @@
+Approximate additional time spent on various tasks:
+
+Argument parsing - 1 hour - previous knowlege: Some
+Assembling the python project - 1 hour - previous knowlege: Some
+
+The rest of the subtasks didn't require any additional research, time spent on them is counted in with:
+Writing, refactoring and testing the code - 10 hours
